@@ -13,7 +13,7 @@
             <CMMS_Entity>Dataset</CMMS_Entity>
             <Parent_Attribute>-</Parent_Attribute>
             <Description>A unique identifier, generated automatically during upload of the Dataset.</Description>
-            <Explanation>-</Explanation>
+            <Explanation>Maybe some explanation would be useful.</Explanation>
             <METAFLEX>ObjectType Attribute “alias” AND/OR “accession”</METAFLEX>
             <Value_Specification>
                 <NA>not allowed</NA>
@@ -29,6 +29,7 @@
                     repository during the upload process.
                     Once an accession ID has been generated all references to a given CMMS Entity must use
                     the xs:attribute “accession” and not the xs:attribute “alias”.
+        
                 </Comment>
             </Value_Specification>
             <DICOM_Specification>
