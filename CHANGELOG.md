@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Repository content moved from the `initial` branch to `main`, which is now the branch to reference ([#2](https://github.com/imi-bigpicture/bigpicture-msmdad/issues/2)).
+
 ## [2.0.0] - 2025-01-21
 
 ### Added
